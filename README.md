@@ -20,7 +20,9 @@ root= 4
 2'nin sağında 3 bulunur.
 2'nin sol altında 0 bulunur.
 0'ın sağında 1 bulunur.
---
+
+---
+
 4'ün sağında 7 bulunur.
 7'nin solunda 6 bulunur.
 6'nın solunda 5 bulunur.
